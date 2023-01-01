@@ -1,2 +1,2 @@
 # social-media-api
-Made with python fast api
+Made with python FAST API.
